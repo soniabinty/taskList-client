@@ -1,9 +1,10 @@
-// import TaskBoard from "../Components/TaskBoard";
+import TaskBoard from "../Components/TaskBoard";
+
 
 const Home = () => {
   return (
     <div>
-      {/* <TaskBoard></TaskBoard> */}
+    <TaskBoard></TaskBoard>
     </div>
   );
 };

@@ -1,6 +1,3 @@
-Here's a well-structured and visually appealing README for your **Task Management Application** in Markdown format.
-
----
 
 # 📝 TaskList - Task Management Application  
 

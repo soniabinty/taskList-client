@@ -26,15 +26,15 @@ const Login = () => {
   };
   return (
     <div className="min-h-screen flex justify-center items-center">
-      <div>
-        <h2 className="text-3xl font-semibold">welcome to taskFlow</h2>
+      <div className="flex flex-col gap-2">
+        <h2 className="text-3xl font-semibold">Welcome to taskList</h2>
         <button
           onClick={handleGoogleLogin}
           className="bg-white px-4 py-2 btn rounded-3xl border"
         >
           <p className="flex items-center gap-2 ">
             {" "}
-            <FcGoogle className="text-xl" /> Continue With Google
+            <FcGoogle className="text-xl text-black" /> Continue With Google
           </p>
         </button>
       </div>
